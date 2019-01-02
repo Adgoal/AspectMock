@@ -1,5 +1,13 @@
 # Changelog
 
+#### 3.1
+
+* Upgraded to Go AOP 2.2.1 (adgoal/goaop-framework) no fix dependency coliseum with Symfony
+* Fix codestyle to PSR-4
+* Replace quote
+* Minimal PHP version is PHP 7.1
+
+
 #### 3.0.0
 
 * Upgraded to Go AOP 2.2 
