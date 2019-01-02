@@ -7,11 +7,11 @@ AspectMock allows you to stub and mock practically anything in your PHP code!
 
 **Documentation** | [Test Doubles Builder](https://github.com/Codeception/AspectMock/blob/master/docs/Test.md) | [ClassProxy](https://github.com/Codeception/AspectMock/blob/master/docs/ClassProxy.md) | [InstanceProxy](https://github.com/Codeception/AspectMock/blob/master/docs/InstanceProxy.md) | [FuncProxy](https://github.com/Codeception/AspectMock/blob/master/docs/FuncProxy.md)
 
-[![Build Status](https://travis-ci.org/Codeception/AspectMock.png?branch=master)](https://travis-ci.org/Codeception/AspectMock)
-[![Latest Stable Version](https://poser.pugx.org/codeception/aspect-mock/v/stable.png)](https://packagist.org/packages/codeception/aspect-mock)
-[![Total Downloads](https://poser.pugx.org/codeception/aspect-mock/downloads)](https://packagist.org/packages/codeception/aspect-mock)
-[![Monthly Downloads](https://poser.pugx.org/codeception/aspect-mock/d/monthly)](https://packagist.org/packages/codeception/aspect-mock)
-[![PHP 7 ready](http://php7ready.timesplinter.ch/Codeception/AspectMock/master/badge.svg)](https://packagist.org/packages/codeception/aspect-mock)
+[![Build Status](https://travis-ci.org/adgoal/AspectMock.png?branch=master)](https://travis-ci.org/adgoal/AspectMock)
+[![Latest Stable Version](https://poser.pugx.org/adgoal/aspect-mock/v/stable.png)](https://packagist.org/packages/adgoal/aspect-mock)
+[![Total Downloads](https://poser.pugx.org/adgoal/aspect-mock/downloads)](https://packagist.org/packages/adgoal/aspect-mock)
+[![Monthly Downloads](https://poser.pugx.org/adgoal/aspect-mock/d/monthly)](https://packagist.org/packages/adgoal/aspect-mock)
+[![PHP 7 ready](http://php7ready.timesplinter.ch/Codeception/AspectMock/master/badge.svg)](https://packagist.org/packages/adgoal/aspect-mock)
 
 
 ## Motivation
@@ -158,7 +158,7 @@ PHP >= 5.6 + [Go! AOP Requirements](https://github.com/goaop/framework#requireme
 ```
 {
 	"require-dev": {
-		"codeception/aspect-mock": "*"
+		"adgoal/aspect-mock": "*"
 	}
 }
 ```
@@ -316,7 +316,7 @@ There is guaranteed to be room for improvements. This framework was not designed
 
 ## Credits
 
-Follow [**@codeception**](http://twitter.com/codeception) for updates.
+Follow [**@adgoal**](http://twitter.com/adgoal) for updates.
 
 Developed by **Michael Bodnarchuk**.
 
