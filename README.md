@@ -7,7 +7,7 @@ AspectMock allows you to stub and mock practically anything in your PHP code!
 
 **Documentation** | [Test Doubles Builder](https://github.com/Adgoal/AspectMock/blob/master/docs/Test.md) | [ClassProxy](https://github.com/Adgoal/AspectMock/blob/master/docs/ClassProxy.md) | [InstanceProxy](https://github.com/Adgoal/AspectMock/blob/master/docs/InstanceProxy.md) | [FuncProxy](https://github.com/Adgoal/AspectMock/blob/master/docs/FuncProxy.md)
 
-[![Build Status](https://travis-ci.org/Adgoal/AspectMock.png?branch=master)](https://travis-ci.org/adgoal/AspectMock)
+[![Build Status](https://travis-ci.org/Adgoal/AspectMock.png?branch=master)](https://travis-ci.org/Adgoal/AspectMock)
 [![Latest Stable Version](https://poser.pugx.org/adgoal/aspect-mock/v/stable.png)](https://packagist.org/packages/adgoal/aspect-mock)
 [![Total Downloads](https://poser.pugx.org/adgoal/aspect-mock/downloads)](https://packagist.org/packages/adgoal/aspect-mock)
 [![Monthly Downloads](https://poser.pugx.org/adgoal/aspect-mock/d/monthly)](https://packagist.org/packages/adgoal/aspect-mock)
