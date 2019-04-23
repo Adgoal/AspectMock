@@ -12,6 +12,7 @@ AspectMock allows you to stub and mock practically anything in your PHP code!
 [![Total Downloads](https://poser.pugx.org/adgoal/aspect-mock/downloads)](https://packagist.org/packages/adgoal/aspect-mock)
 [![Monthly Downloads](https://poser.pugx.org/adgoal/aspect-mock/d/monthly)](https://packagist.org/packages/adgoal/aspect-mock)
 [![PHP 7 ready](http://php7ready.timesplinter.ch/Codeception/AspectMock/master/badge.svg)](https://packagist.org/packages/adgoal/aspect-mock)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAdgoal%2FAspectMock.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FAdgoal%2FAspectMock?ref=badge_shield)
 
 
 ## Motivation
@@ -323,3 +324,7 @@ Developed by **Michael Bodnarchuk**.
 License: **MIT**.
 
 Powered by [Go! Aspect-Oriented Framework](http://go.aopphp.com/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAdgoal%2FAspectMock.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FAdgoal%2FAspectMock?ref=badge_large)
